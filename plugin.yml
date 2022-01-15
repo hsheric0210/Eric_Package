@@ -1,0 +1,8 @@
+name: Eric_Package
+version: 2.00
+main: com.eric0210.core.EricPackage
+authors: [ eric0210_,Gompa7097 ]
+description: The all of the eric0210_'s projects for Minecraft Spigot server 1.7.10
+commands:
+    none:
+        description: This is useless command. It is just exists for blocking blocked console commands.

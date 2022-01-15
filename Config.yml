@@ -1,0 +1,24 @@
+####################################
+#Eric Package  Configuration file                  #
+#                                                         #
+#	       Made By eric0210_                          #
+#                                                         #
+####################################
+Debug: false
+
+Magicswords:
+    moduleMain: com.eric0210.magicswords.Magicswords
+AdvFilters:
+    moduleMain: com.eric0210.AdvFilters.AdvFilters
+AooniGame:
+    moduleMain: com.eric0210.aooniGame.AooniGame
+StructureGenerater:
+    moduleMain: com.eric0210.StructureGenerater.StructureGenerater
+MoreKits:
+    moduleMain: com.eric0210.MoreKits.MoreKits
+AsyncCatcherDisabler:
+    moduleMain: com.eric0210.spigot.ASyncCatcherDisabler.ASyncCatcherDisabler
+AdditionalFunctions:
+    moduleMain: com.eric0210.AdditionalFunctions.AdditionalFunctions
+StatsScoreboard:
+    moduleMain: com.eric0210.StateScoreboard.StateScoreboard
